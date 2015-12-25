@@ -2,6 +2,14 @@
  <head>
   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
   <TITLE>Clément & Mike - Recheche d'Apparts (P16)</TITLE>
+  <style>
+   table{
+    width: 100%;
+   }
+   table td:first-child{
+    width: 25%;
+   }
+  </style>
  </head>
  
  <body style="text-align: center; font-family: Arial">
