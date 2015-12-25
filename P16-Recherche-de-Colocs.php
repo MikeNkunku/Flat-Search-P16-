@@ -468,7 +468,9 @@
    echo '<table border="0" style="margin: auto; text-align: justify;">
     <tr><td>Contact : </td><td>'.$l["contact"].'</td></tr>
     <tr><td>Superficie : </td><td>'.$l["surfaceArea"].'</td></tr>
+    <tr><td>Prix : </td><td>'.$l["billPerMonth"].'</td></tr>
     <tr><td>Nb Pièces : </td><td>'.$l["numberOfRooms"].'</td></tr>
+    <tr><td>Description : </td><td>'.$l["descr"].'</td></tr>
     <tr><td>1ère date d\'emménagement possible : </td><td>'.$l["startDate"].'</td></tr>
     <tr><td>Date de départ obligatoire : </td><td>'.$l["endDate"].'</td></tr>
     <tr><td>Meublé : </td><td>'.$l["furniture"].'</td></tr>
