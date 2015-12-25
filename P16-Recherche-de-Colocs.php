@@ -1,7 +1,7 @@
 <html>
  <head>
   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
-  <TITLE>Clément & Mike - Recheche d\'Apparts (P16)</TITLE>
+  <TITLE>Clément & Mike - Recheche d'Apparts (P16)</TITLE>
  </head>
  
  <body style="text-align: center; font-family: Arial">
@@ -306,7 +306,7 @@
     "numberOfParkings" => "Place de parking dans un parc arboré et sécurisé",
     "comments" => "Ca a l'air pas mal du tout, reste à voir la gueule des chambres :-P<br/>
 	Je ne dis pas non à la confirmation d'un ascenseur pour les courses xD Stora Bour, l'appeler, pour plus d'infos, vraiment 2 chambres ? très bien sinon !"
-   ), array(
+   )/*, array( // déjà loué
     "link" => "http://www.leboncoin.fr/locations/897062992.htm?ca=21_s",
     "title" => "F3 meublé 70 m² à 5 mn des plages et du centre",
     "contact" => "contacté par Mike",
@@ -323,7 +323,7 @@
     "numberOfParkings" => "\"Parking privé\"",
     "comments" => "Pas d'info sur le WiFi, ni sur les transports.<br/>
 	Niveau meublement de l'appart', des infos supplémentaires seraient fort bienvenues ^^"
-   )/*, array( // Il ne reste plus qu'une seule chambre, donc bon ... ^^
+   ), array( // Il ne reste plus qu'une seule chambre, donc bon ... ^^
     "link" => "http://www.leboncoin.fr/colocations/883844325.htm?ca=21_s",
     "title" => "Colocation rez villa Antibes - 3 étudiants - 500 €",
     "contact" => "contacté par Mike",
