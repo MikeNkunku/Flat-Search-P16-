@@ -3,17 +3,29 @@
   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
   <TITLE>Clément & Mike - Recheche d'Apparts (P16)</TITLE>
   <style>
+   body{
+    text-align: center;
+    font-family: Arial;
+   }
+   h1{
+    margin-bottom: 30px;
+   }
    table{
-    width: 100%;
+    width: 90%;
+    margin: auto;
    }
    table td:first-child{
     width: 25%;
+    text-align: left;
+   }
+   table td:nth-child(2){
+    text-align: justify;
    }
   </style>
  </head>
  
- <body style="text-align: center; font-family: Arial">
-  <h1 style="margin-bottom: 30px;">Recherche de Colocs sur Antibes (P2016)</h1>
+ <body>
+  <h1>Recherche de Colocs sur Antibes (P2016)</h1>
   <h2>Logements sur Antibes</h2>
   <?php
    $links = array(
