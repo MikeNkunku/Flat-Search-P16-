@@ -424,7 +424,7 @@
     "link" => "http://www.appartager.com/colocation-cannes/colocation-loft-vieil-antibes/h141211134443509",
     "title" => "Colocation Loft Vieil Antibes",
     "contact" => "contacté par Mike",
-   	"ownerDetails" => "Audrey & Julien GALLINA <loft16vauban@gmail.com> (réponse eue le 18 décembre, répondu le 26 décembre en lui donnant comme date de départ du logement \"fin juillet 2016\"",
+   	"ownerDetails" => "Audrey & Julien GALLINA <loft16vauban@gmail.com> (réponse eue le 18 décembre, répondu le 26 décembre en lui donnant comme date de départ du logement \"fin juillet 2016\""),
     "surfaceArea" => "70m²",
     "descr" => "Appartement contemporain climatisé dans un vieil immeuble d'Antibes.<br/>
 	Les deux chambres ont un lit double.<br/>
