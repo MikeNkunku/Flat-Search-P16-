@@ -19,7 +19,7 @@
     text-align: left;
    }
    table td:nth-child(2){
-    margin-left: 15px; 
+    padding-left: 15px; 
     text-align: justify;
    }
   </style>
