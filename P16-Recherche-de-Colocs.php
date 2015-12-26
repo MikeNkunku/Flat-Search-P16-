@@ -46,6 +46,7 @@
      "link" => "http://www.leboncoin.fr/colocations/881273416.htm?ca=21_s",
      "title" => "Cherche 2 colocs dans grand appartement à Antibes",
      "contact" => "contacté par Clement",
+     "ownerDetails" => "Rémi BOYER",
      "surfaceArea" => "85m²",
      "descr" => "Inclus lave-linge et aspirateur, colocataire déjà présent qui est musicien et 
 	apparemment bon cuistot<br/>
@@ -79,6 +80,7 @@
     "link" => "http://www.leboncoin.fr/colocations/898730529.htm?ca=21_s",
     "title" => "Appartement pour etudiant ou 2 colocations",
     "contact" => "contacté par Clément",
+   	"ownerDetails" => "armor22",
     "surfaceArea" => "44m²",
     "descr" => "Appartement au 2è étage, sans ascenseur",
     "billPerMonth" => "650€",
@@ -125,6 +127,7 @@
     "link" => "http://www.leboncoin.fr/locations/900429640.htm?ca=21_s",
     "title" => "3P Bas de villa avec jardin centre Antibes",
     "contact" => "contacté par Clément",
+   	"ownerDetails" => "Elisa",
     "surfaceArea" => "65 ou 68m²",
     "descr" => "Appartement au RDC d'une villa avec un grand jardin privatif en plein centre-ville 
 	d'Antibes.<br/>
@@ -138,7 +141,7 @@
     "comments" => "Pas vraiment d'informations en ce qui concerne les transports à proximité.<br/>
  	Manque de photos, notamment pour les chambres et l'intérieur.<br/>
 	Pas de détails explicites sur les charges (WiFi ?)"
-   ), array(
+   )/*, array( // annonce désactivée
     "link" => "http://www.leboncoin.fr/locations/895383584.htm?ca=21_s",
     "title" => "Appartement 3 pièces - Antibes",
     "contact" => "contacté par Clément",
@@ -153,7 +156,7 @@
     "comments" => "Pas de photos des chambres.<br/>
 	2 mois de caution exigés : euuuhh, ça refroidit un peu qd mm ... ^^<br/>
 	Aucune info sur les transports à proximité, ni les commerces alentours ..."
-   )/*, array( //déjà loué
+   ), array( //déjà loué
     "link" => "http://www.leboncoin.fr/locations/891777501.htm?ca=21_s",
     "title" => "Appartement 4 pièces",
      "contact" => "contacté par Clement",
@@ -171,6 +174,7 @@
     "link" => "http://www.leboncoin.fr/locations/889138357.htm?ca=21_s",
     "title" => "3P centre ville",
     "contact" => "contacté par Clément",
+   	"ownerDetails" => "RIVIERA FONCIER (agence immo)",
     "surfaceArea" => "70m²",
     "descr" => "Offre publiée par l'agence immo' Riviera Foncier, appartement à proximité des plages 
 	de Juan les Pins et du centre ville d'Antibes.",
@@ -207,6 +211,7 @@
     "link" => "http://www.leboncoin.fr/locations/881049533.htm?ca=21_s",
     "title" => "Location meublée vue mer etudiants Antibes -T3",
     "contact" => "contacté par Clement",
+   	"ownerDetails" => "Vincent",
     "surfaceArea" => "65m²",
     "descr" => "Appartement pas loin du port, du centre et des plages.<br/>
 	Sophia Antipolis et Skema sont accessibles en bus (navettes Envibus) et en voiture.<br/>
@@ -219,7 +224,7 @@
     "numberOfParkings" => "Stationnements libres",
     "comments" => "Pas mal ;-)<br/>
 	Reste à voir les chambres et s'il y a une TV de disponible :-)"
-   ), array(
+   )/*, array( // annonce désactivée
     "link" => "http://www.leboncoin.fr/locations/880511940.htm?ca=21_s",
     "title" => "Appartement 3 pièces de 61m²",
     "contact" => "contacté par Clement",
@@ -238,7 +243,7 @@
 	Il faut voir l'état des chambres ...<br/>
 	Vu la localisation en hauteur, je me doute que ce n'est pas l'idéal pour les transports, et 
 	aucune info sur d'éventuels commerces aux alentours ..."
-   )/*, array( // une seule chambre restante
+   ), array( // une seule chambre restante
     "link" => "http://www.leboncoin.fr/colocations/894464292.htm?ca=21_s",
     "title" => "Colocation pour 2 personnes à Juan-les-Pins",
     "contact" => "contacté par Clément",
@@ -262,6 +267,7 @@
     "link" => "http://www.leboncoin.fr/locations/891018764.htm?ca=21_s",
     "title" => "Location 3 pièces meublé Antibes centre",
     "contact" => "contacté par Mike",
+   	"ownerDetails" => "Honda caf 125",
     "surfaceArea" => "65m²",
     "descr" => "Situé à 100m de la mer, \"proche de toutes commodités\".<br/>
 	1 chambre avec un lit double, l'autre avec 2 lits simples.",
@@ -277,6 +283,7 @@
     "link" => "http://www.leboncoin.fr/locations/890503299.htm?ca=21_s",
     "title" => "Location 3 pieces meublé vieille ville",
     "contact" => "contacté par Clément",
+   	"ownerDetails" => "clotildeBerten",
     "surfaceArea" => "59m²",
     "descr" => "Appartement situé au dernier étage (3ème) d'un immeuble sans ascenseur.<br/>
 	Logement siué à 10mn du port, des bus, de la gare SNCF et de la plage.<br/>
@@ -296,6 +303,7 @@
     "link" => "http://www.leboncoin.fr/locations/879006562.htm?ca=21_s",
     "title" => "Appartement 3P meublé, 75 M2, à louer jusqu'à Juin",
     "contact" => "contacté par Mike",
+   	"ownerDetails" => "Pierre-Yves",
     "surfaceArea" => "75m²",
     "descr" => "Appartement meublé avec 2 grandes terrasses, piscine et tennis.<br/>
 	Proche du centre-ville, le logement dispose également d'un box.",
@@ -313,6 +321,7 @@
     "link" => "http://www.leboncoin.fr/colocations/896761417.htm?ca=21_s",
     "title" => "Vue imprenable sur les îles de Lérins",
     "contact" => "contacté par Clement, appelé le 26/12/2015 par Clément",
+   	"ownerDetails" => "auré",
     "surfaceArea" => "65m²",
     "descr" => "Appartement lumineux situé au 3ème et dernier étage d'un immeuble d'une résidence
 	sécurisée, pas d'ascenseur. Une chambre déjà prise, mais un autre logement à 5 minutes avec là aussi une place, où la propriétaire vit. Elle est jeune et sympa on dirait.<br/>
@@ -362,6 +371,7 @@
     "link" => "http://www.pap.fr/annonce/location-appartement-loft-atelier-maison-residence-avec-service-antibes-06-g8853-a-partir-du-2-pieces-r403901233",
     "title" => "Location meublée appartement 3 pièces 73 m² Antibes (06)",
     "contact" => "contacté par Mike",
+   	"ownerDetails" => "Unknown (en attente de réponse)",
     "surfaceArea" => "73m²",
     "descr" => "Appartement avec belle vue sur mer et montagne.<br/>
 	Le logement est composé d'une entrée, d'un séjour avec loggia, 2 chambres avec balcon et armoires ainsi
@@ -378,6 +388,7 @@
     "link" => "http://www.pap.fr/annonce/location-appartement-loft-atelier-maison-residence-avec-service-antibes-06-g8853-a-partir-du-2-pieces-r409101312",
     "title" => "Location appartement 3 pièces 65 m² Antibes (06)",
     "contact" => "contacté par Mike",
+   	"ownerDetails" => "Unknown (en attente de réponse)",
     "surfaceArea" => "65m²",
     "descr" => "Appartement avec belle vue sur mer et montagne.<br/>
 	Situé en centre-ville, le logement est proche de la gare SNCF, des bus et à 500m de la plage.<br/>
@@ -394,6 +405,7 @@
     "link" => "http://www.appartager.com/colocation-cannes/deux-chambres-a-louer-600-euros-par-chambre/h141110101723825",
     "title" => "deux chambres à louer 600 euros par chambre",
     "contact" => "contacté par Mike",
+   	"ownerDetails" => "colpin (il attend qu'on lui envoie une personne pour effectuer une visite du logement ;) )",
     "surfaceArea" => "Non renseigné (chelou ...)",
     "descr" => "Appartement entiètement refait en 2013.<br/>
 	2 chambres \"double\", meublé, TV, Wifi, 1 salle de bain, terrasse, balcon et cuisine équipée.<br/>
@@ -411,6 +423,7 @@
     "link" => "http://www.appartager.com/colocation-cannes/colocation-loft-vieil-antibes/h141211134443509",
     "title" => "Colocation Loft Vieil Antibes",
     "contact" => "contacté par Mike",
+   	"ownerDetails" => "loft16vauban@gmail.com (réponse eue le 18 décembre, répondu le 26 décembre en lui donnant comme date de départ du logement \"fin juillet 2016\"",
     "surfaceArea" => "70m²",
     "descr" => "Appartement contemporain climatisé dans un vieil immeuble d'Antibes.<br/>
 	Les deux chambres ont un lit double.<br/>
@@ -429,6 +442,7 @@
     "link" => "http://www.appartager.com/colocation-cannes/appartement-3p-meuble-vue-mer-antibes-juan-les-pins/h090510132330138",
     "title" => "appartement 3p meublé vue mer antibes juan les pins",
     "contact" => "contacté par Mike",
+   	"ownerDetails" => "Unknown (en attente de réponse)",
     "surfaceArea" => "Non renseignée",
     "descr" => "Appartement 3 pièces avec 2 chambres (1 avec lit double, l'autre 2 lits simples d'après les photos).<br/>
 	Il y a une \"salle de bain privée\" et une terrasse/balcon.<br/>
@@ -447,6 +461,7 @@
     "link" => "https://fr-fr.roomlala.com/colocation/FR-France/antibes/antibes-cente-ville-ideal-etudiants-116964-fr",
     "title" => "Antibes cente ville idéal étudiants",
     "contact" => "contacté par Mike",
+   	"ownerDetails" => "Unknown (en attente de réponse)",
     "surfaceArea" => "\"+ de 20m²\"",
     "descr" => "Appartement avec 3 chambres, chacune avec fenêtre et armoire, situé en centre-ville.<br/>
 	Il y a 2 lits simples et 3 lits doubles, et la capacité est bien de 3 personnes.<br/>
@@ -467,6 +482,7 @@
    echo '<h3><a href = "'.$l["link"].'" target = "_blank">'.$l["title"].'</a></h3>'; // title
    echo '<table border="0" style="margin: auto; text-align: justify;">
     <tr><td>Contact : </td><td>'.$l["contact"].'</td></tr>
+    <tr><td>Contact du propriétaire : </td><td>'.$l["ownerDetails"].'</td></tr>
     <tr><td>Superficie : </td><td>'.$l["surfaceArea"].'</td></tr>
     <tr><td>Prix : </td><td>'.$l["billPerMonth"].'</td></tr>
     <tr><td>Nb Pièces : </td><td>'.$l["numberOfRooms"].'</td></tr>
