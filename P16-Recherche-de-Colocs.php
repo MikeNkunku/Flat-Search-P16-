@@ -123,7 +123,7 @@
 	\"coin nuit pour court séjour avec lit électrique et matelas neuf\" ? euuuhhh ..."
    )*/, array(
     "link" => "http://www.leboncoin.fr/locations/900429640.htm?ca=21_s",
-    "title" => "33P Bas de villa avec jardin centre Antibes",
+    "title" => "3P Bas de villa avec jardin centre Antibes",
     "contact" => "contacté par Clément",
     "surfaceArea" => "65 ou 68m²",
     "descr" => "Appartement au RDC d'une villa avec un grand jardin privatif en plein centre-ville 
@@ -312,20 +312,20 @@
    ), array(
     "link" => "http://www.leboncoin.fr/colocations/896761417.htm?ca=21_s",
     "title" => "Vue imprenable sur les îles de Lérins",
-    "contact" => "contacté par Clement",
+    "contact" => "contacté par Clement, appelé le 26/12/2015 par Clément",
     "surfaceArea" => "65m²",
     "descr" => "Appartement lumineux situé au 3ème et dernier étage d'un immeuble d'une résidence
-	sécurisée.<br/>
+	sécurisée, pas d'ascenseur. Une chambre déjà prise, mais un autre logement à 5 minutes avec là aussi une place, où la propriétaire vit. Elle est jeune et sympa on dirait.<br/>
 	Deux chambres avec lit double, l'une donnant sur la Loggia, l'autre sur le balcon.<br/>
 	Terrasse avec vue sur mer exposée plein sud.",
-    "billPerMonth" => "475€",
-    "startDate" => "Non renseignée",
-    "endDate" => "Non renseignée",
+    "billPerMonth" => "475€, hors charge apparemment, à voir la valeur des charges (eau + elec)",
+    "startDate" => "janvier ou février 2016",
+    "endDate" => "mi-juillet puis mis en agance mais tjs disponible, pas de location d'été spécifique",
     "numberOfRooms" => 3,
     "furniture" => "Oui : TV et internet",
     "numberOfParkings" => "Place de parking dans un parc arboré et sécurisé",
-    "comments" => "Ca a l'air pas mal du tout, reste à voir la gueule des chambres :-P<br/>
-	Je ne dis pas non à la confirmation d'un ascenseur pour les courses xD Stora Bour, l'appeler, pour plus d'infos, vraiment 2 chambres ? très bien sinon !"
+    "comments" => "Ca a l'air pas mal du tout, reste à voir la gueule des chambres :-P la recontacter le 2 janvier pour les photos des chambres et donner des nouvelles<br/>
+	Stora Bour, l'appeler, pour plus d'infos, vraiment 2 chambres ? très bien sinon !"
    )/*, array( // déjà loué
     "link" => "http://www.leboncoin.fr/locations/897062992.htm?ca=21_s",
     "title" => "F3 meublé 70 m² à 5 mn des plages et du centre",
