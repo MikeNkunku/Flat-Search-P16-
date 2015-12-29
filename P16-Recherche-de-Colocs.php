@@ -53,8 +53,8 @@ table td:nth-child(2) {
 					"contact" => "contacté par Clement",
 					"ownerDetails" => "Rémi BOYER (06.40.12.46.51)",
 					"surfaceArea" => "85m²",
-					"descr" => "Inclus lave-linge et aspirateur, colocataire déjà présent qui est musicien et
-					apparemment bon cuistot<br/>
+					"descr" => "Appartement avec 3 chambres.<br/>
+					Inclus lave-linge et aspirateur, colocataire déjà présent qui est musicien et apparemment bon cuistot.<br/>
 					Plage et gare à 5mn de marche<br/>
 					Supermarché et bus pour Sophia-Antipolis à 3mn à pied",
 					"billPerMonth" => "1 grande chambre pour 460€, une chambre de taille moyenne pour 425€",
@@ -64,7 +64,8 @@ table td:nth-child(2) {
 					"furniture" => "Oui : micro-ondes, plaques chauffantes, congélateur, réfrigérateur",
 					"numberOfParkings" => "Non renseigné",
 					"comments" => "<b>Mike</b> - \"Pas de télé en vue d'après la description, mais WiFi déjà inclu<br/>
-					Reste également à déterminer s'il y a un ascenseur\""
+					Reste également à déterminer s'il y a un ascenseur\"<br/>
+					\"Une chambre avec lit double (460e), et l'autre, \"lit\", à enquêter ...\""
 			)/*, array( // désactivé, donc surement déjà loué
 					"link" => "http://www.leboncoin.fr/locations/896613354.htm?ca=21_s",
 					"title" => "Appartement 3 pièces meublé",
