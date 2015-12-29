@@ -20,6 +20,7 @@ table {
 table td:first-child {
 	width: 25%;
 	text-align: left;
+	text-decoration: underline;
 }
 
 table td:nth-child(2) {
