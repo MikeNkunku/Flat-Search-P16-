@@ -86,7 +86,7 @@ table td:nth-child(2) {
 					"link" => "http://www.leboncoin.fr/colocations/898730529.htm?ca=21_s",
 					"title" => "Appartement pour etudiant ou 2 colocations",
 					"contact" => "contacté par Clément (réponse eue)",
-					"ownerDetails" => "armor22 (06.14.79.33.37)",
+					"ownerDetails" => "Francis BOURE (armor22) (06.14.79.33.37)",
 					"surfaceArea" => "44m²",
 					"descr" => "Appartement au 2è étage, sans ascenseur.<br/>
 					2 chambres de 12m² chacune, une ayant pour lit un canapé BZ.",
