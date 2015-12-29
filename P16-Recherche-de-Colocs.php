@@ -450,11 +450,11 @@ table td:nth-child(2) {
 			"comments" => "<b>Mike</b> - \"Franchement, il a l'air top ! Espérons qu'il soit encore dispo ^^\"<br/>
 			<b>Clément</b> - \"Cher ^^ La taxe d'habitation doit normalement être payée au pire des cas.<br/>
 			Sinon, très bien :-)\""
-	), array(
+	)/*, array(// déjà loué
 			"link" => "http://www.appartager.com/colocation-cannes/appartement-3p-meuble-vue-mer-antibes-juan-les-pins/h090510132330138",
 			"title" => "appartement 3p meublé vue mer antibes juan les pins",
 			"contact" => "contacté par Mike",
-			"ownerDetails" => "Unknown (en attente de réponse) (06.50.64.49.10)",
+			"ownerDetails" => "Christophe (06.50.64.49.10)",
 			"surfaceArea" => "Non renseignée",
 			"descr" => "Appartement 3 pièces avec 2 chambres (1 avec lit double, l'autre 2 lits simples d'après les photos).<br/>
 			Il y a une \"salle de bain privée\" et une terrasse/balcon.<br/>
@@ -469,7 +469,7 @@ table td:nth-child(2) {
 			"comments" => "<b>Mike</b> - \"La qualité des photos n'est pas ouf, mais la description est pas mal je trouve.<br/>
 			Il y a une télé, mais pas d'info à propos d'une connexion internet ...<br/>
 			L'annonce dit qu'il y a actuellement un colocataire, donc à confirmer pour la disponibilité des deux chambres :)\""
-	), array(
+	)*/, array(
 			"link" => "https://fr-fr.roomlala.com/colocation/FR-France/antibes/antibes-cente-ville-ideal-etudiants-116964-fr",
 			"title" => "Antibes cente ville idéal étudiants",
 			"contact" => "contacté par Mike",
