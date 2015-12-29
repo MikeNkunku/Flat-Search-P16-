@@ -497,7 +497,7 @@ table td:nth-child(2) {
 				"descr" => "Appartement situé en plein coeur de Juan les Pins.<br/>
 				Appartement \"entièrement meublé\" au 3ème étage, à 150m de la plage et à proximité des commerces et des bus pour Sophia-Antipolis/Cannes/Nice.<br/>
 				L'immeuble (bourgeois) est doté d'un ascenseur.<br/>
-				Pour comber à l'absence de machine à laver, une laverie est accessible à moins de 50m de l'immeuble.",
+				Pour compenser l'absence de machine à laver, une laverie est accessible à moins de 50m de l'immeuble.",
 				"billPerMonth" => "500€ (550€ charges comprises)",
 				"startDate" => "1er janvier 2016",
 				"endDate" => "fin juin 2016",
