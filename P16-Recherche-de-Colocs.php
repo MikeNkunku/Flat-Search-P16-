@@ -491,20 +491,24 @@ table td:nth-child(2) {
 		), array(
 				"link" => "http://www.appartager.com/colocation-cannes/tres-beau-3-pieces-plein-centre-de-juan/h151207113158560",
 				"title" => "Très beau 3 pièces plein centre de Juan - Juan-les-Pins",
-				"contact" => "contacté par Mike",
-				"ownerDetails" => "Maxime (06.19.30.67.12 ou 07.68.30.78.70)",
-				"surfaceArea" => "Non renseignée",
+				"contact" => "contacté par Mike (appelé le 29/12/2015)",
+				"ownerDetails" => "Maxime (06.19.30.67.12)", // (ou 07.68.30.78.70)
+				"surfaceArea" => "51-52m²",
 				"descr" => "Appartement situé en plein coeur de Juan les Pins.<br/>
-				Appartement \"entièrement meublé\", à 150m de la plage et à proximité des commerces et des bus pour Sophia-Antipolis/Cannes/Nice.<br/>
-				L'immeuble (bourgeois) est doté d'un ascenseur.",
+				Appartement \"entièrement meublé\" au 3ème étage, à 150m de la plage et à proximité des commerces et des bus pour Sophia-Antipolis/Cannes/Nice.<br/>
+				L'immeuble (bourgeois) est doté d'un ascenseur.<br/>
+				Pour comber à l'absence de machine à laver, une laverie est accessible à moins de 50m de l'immeuble.",
 				"billPerMonth" => "500€ (550€ charges comprises)",
 				"startDate" => "1er janvier 2016",
 				"endDate" => "fin juin 2016",
 				"numberOfRooms" => 3,
-				"furniture" => "Oui : TV, wifi",
+				"furniture" => "Oui : TV, wifi, sèche-linge mécanique",
 				"numberOfParkings" => "Non renseigné",
 				"comments" => "<b>Mike</b> - \"Il a l'air vraiment pas mal.<br/>
-				Seul petit hic : la fin en juin 2016, mais je pense que je vais quand même le contacter :-)\""
+				Seul petit hic : la fin en juin 2016, mais je pense que je vais quand même le contacter :-)\"<br/>
+				\"Le proprio est en vacs aux Philippines actuellement, du coup, c'est sa mère (en Bretagne) qui s'occupe de l'affaire jusqu'à son retour (le 15 janvier 2016).<br/>
+				Elle est OK pour faire en sorte que la visite ait lieu en début janvier 2016.<br/>
+				En ce qui concerne les chambres, une est plus grande que l'autre (lit de 160 pour la 1ère, lit de 140 pour l'autre).\""
 		)
 	);
 
