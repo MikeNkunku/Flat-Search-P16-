@@ -454,7 +454,7 @@ table td:nth-child(2) {
 			"link" => "http://www.appartager.com/colocation-cannes/appartement-3p-meuble-vue-mer-antibes-juan-les-pins/h090510132330138",
 			"title" => "appartement 3p meublé vue mer antibes juan les pins",
 			"contact" => "contacté par Mike",
-			"ownerDetails" => "Unknown (en attente de réponse)",
+			"ownerDetails" => "Unknown (en attente de réponse) (06.50.64.49.10)",
 			"surfaceArea" => "Non renseignée",
 			"descr" => "Appartement 3 pièces avec 2 chambres (1 avec lit double, l'autre 2 lits simples d'après les photos).<br/>
 			Il y a une \"salle de bain privée\" et une terrasse/balcon.<br/>
