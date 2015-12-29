@@ -470,25 +470,42 @@ table td:nth-child(2) {
 			"comments" => "<b>Mike</b> - \"La qualité des photos n'est pas ouf, mais la description est pas mal je trouve.<br/>
 			Il y a une télé, mais pas d'info à propos d'une connexion internet ...<br/>
 			L'annonce dit qu'il y a actuellement un colocataire, donc à confirmer pour la disponibilité des deux chambres :)\""
-	)*/, array(
-			"link" => "https://fr-fr.roomlala.com/colocation/FR-France/antibes/antibes-cente-ville-ideal-etudiants-116964-fr",
-			"title" => "Antibes cente ville idéal étudiants",
-			"contact" => "contacté par Mike",
-			"ownerDetails" => "Unknown (en attente de réponse)",
-			"surfaceArea" => "\"+ de 20m²\"",
-			"descr" => "Appartement avec 3 chambres, chacune avec fenêtre et armoire, situé en centre-ville.<br/>
-			Il y a 2 lits simples et 3 lits doubles, et la capacité est bien de 3 personnes.<br/>
-			Les transports en commun sont situés à moins de 200m.",
-			"billPerMonth" => "1450€",
-			"startDate" => "1er janvier 2016",
-			"endDate" => "Non renseignée",
-			"numberOfRooms" => 4,
-			"furniture" => "Lave-vaisselle, machine à laver, internet, sèche-linge",
-			"numberOfParkings" => "Garage",
-			"comments" => "<b>Mike</b> - \"Il faudrait une photo des chambres.<br/>
-			Malheureusement, celui-ci n'a pas de télé, mais niveau meublement, il y a ce qu'il faut ;-)<br/>
-			PS : la photo de la salle de bain donne pas trop envie en revanche ... #glauque\""
-	)
+		)*/, array(
+				"link" => "https://fr-fr.roomlala.com/colocation/FR-France/antibes/antibes-cente-ville-ideal-etudiants-116964-fr",
+				"title" => "Antibes cente ville idéal étudiants",
+				"contact" => "contacté par Mike",
+				"ownerDetails" => "Unknown (en attente de réponse)",
+				"surfaceArea" => "\"+ de 20m²\"",
+				"descr" => "Appartement avec 3 chambres, chacune avec fenêtre et armoire, situé en centre-ville.<br/>
+				Il y a 2 lits simples et 3 lits doubles, et la capacité est bien de 3 personnes.<br/>
+				Les transports en commun sont situés à moins de 200m.",
+				"billPerMonth" => "1450€",
+				"startDate" => "1er janvier 2016",
+				"endDate" => "Non renseignée",
+				"numberOfRooms" => 4,
+				"furniture" => "Lave-vaisselle, machine à laver, internet, sèche-linge",
+				"numberOfParkings" => "Garage",
+				"comments" => "<b>Mike</b> - \"Il faudrait une photo des chambres.<br/>
+				Malheureusement, celui-ci n'a pas de télé, mais niveau meublement, il y a ce qu'il faut ;-)<br/>
+				PS : la photo de la salle de bain donne pas trop envie en revanche ... #glauque\""
+		), array(
+				"link" => "http://www.appartager.com/colocation-cannes/tres-beau-3-pieces-plein-centre-de-juan/h151207113158560",
+				"title" => "Très beau 3 pièces plein centre de Juan - Juan-les-Pins",
+				"contact" => "contacté par Mike",
+				"ownerDetails" => "Maxime (06.19.30.67.12 ou 07.68.30.78.70)",
+				"surfaceArea" => "Non renseignée",
+				"descr" => "Appartement situé en plein coeur de Juan les Pins.<br/>
+				Appartement \"entièrement meublé\", à 150m de la plage et à proximité des commerces et des bus pour Sophia-Antipolis/Cannes/Nice.<br/>
+				L'immeuble (bourgeois) est doté d'un ascenseur.",
+				"billPerMonth" => "500€ (550€ charges comprises)",
+				"startDate" => "1er janvier 2016",
+				"endDate" => "fin juin 2016",
+				"numberOfRooms" => 3,
+				"furniture" => "Oui : TV, wifi",
+				"numberOfParkings" => "Non renseigné",
+				"comments" => "<b>Mike</b> - \"Il a l'air vraiment pas mal.<br/>
+				Seul petit hic : la fin en juin 2016, mais je pense que je vais quand même le contacter :-)\""
+		)
 	);
 
 	foreach($links as $l) {
