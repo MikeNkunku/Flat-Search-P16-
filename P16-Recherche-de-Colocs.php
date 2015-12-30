@@ -313,7 +313,7 @@ table td:nth-child(2) {
 			"link" => "http://www.leboncoin.fr/locations/879006562.htm?ca=21_s",
 			"title" => "Appartement 3P meublé, 75 M2, à louer jusqu'à Juin",
 			"contact" => "contacté par Mike",
-			"ownerDetails" => "Pierre-Yves",
+			"ownerDetails" => "Pierre-Yves (06.26.79.66.34)",
 			"surfaceArea" => "75m²",
 			"descr" => "Appartement meublé avec 2 grandes terrasses, piscine et tennis.<br/>
 			Proche du centre-ville, le logement dispose également d'un box.",
