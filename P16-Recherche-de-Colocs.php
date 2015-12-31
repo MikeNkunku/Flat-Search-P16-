@@ -508,7 +508,8 @@ table td:nth-child(2) {
 				Seul petit hic : la fin en juin 2016, mais je pense que je vais quand même le contacter :-)\"<br/>
 				\"Le proprio est en vacs aux Philippines actuellement, du coup, c'est sa mère (en Bretagne) qui s'occupe de l'affaire jusqu'à son retour (le 15 janvier 2016).<br/>
 				Elle est OK pour faire en sorte que la visite ait lieu en début janvier 2016.<br/>
-				En ce qui concerne les chambres, une est plus grande que l'autre (lit de 160 pour la 1ère, lit de 140 pour l'autre).\""
+				En ce qui concerne les chambres, une est plus grande que l'autre (lit de 160 pour la 1ère, lit de 140 pour l'autre).<br/>
+				Il ne devrait pas y avoir de souci pour prolonger le contrat jusqu'à mi-juillet, à confirmer pour le prolongement jusqu'à fin juillet.\""
 		)
 	);
 
