@@ -48,7 +48,7 @@ table td:nth-child(2) {
 					"numberOfParkings" => 2,
 					"comments" => "Aucune info sur les meubles<br/>
 					Déterminer s'il y a un ascenseur"
-			), */array(
+			), array( // déjà loué
 					"link" => "http://www.leboncoin.fr/colocations/881273416.htm?ca=21_s",
 					"title" => "Cherche 2 colocs dans grand appartement à Antibes",
 					"contact" => "contacté par Clement",
@@ -67,7 +67,7 @@ table td:nth-child(2) {
 					"comments" => "<b>Mike</b> - \"Pas de télé en vue d'après la description, mais WiFi déjà inclu<br/>
 					Reste également à déterminer s'il y a un ascenseur\"<br/>
 					\"Une chambre avec lit double (460e), et l'autre, \"lit\", à enquêter ...\""
-			)/*, array( // désactivé, donc surement déjà loué
+			), array( // désactivé, donc surement déjà loué
 					"link" => "http://www.leboncoin.fr/locations/896613354.htm?ca=21_s",
 					"title" => "Appartement 3 pièces meublé",
 					"contact" => "",
@@ -83,7 +83,7 @@ table td:nth-child(2) {
 					"comments" => "Le lit de la chambre en photo n'a pas l'air ouf ^^<br/>
 					Il faudrait demander ce qui est accessible à pied, parce que perso, je comprends qu'il faut
 					nécessairement une voiture :/"
-			)*/, array(
+			),*/ array(
 					"link" => "http://www.leboncoin.fr/colocations/898730529.htm?ca=21_s",
 					"title" => "Appartement pour etudiant ou 2 colocations",
 					"contact" => "contacté par Clément (réponse eue)",
@@ -345,7 +345,7 @@ table td:nth-child(2) {
 			"numberOfParkings" => "Place de parking dans un parc arboré et sécurisé",
 			"comments" => "<b>Mike</b> - \"Ca a l'air pas mal du tout, reste à voir la gueule des chambres :-P\"<br/>
 			<b>Clément</b> - \"la recontacter le 2 janvier pour les photos des chambres et donner des nouvelles<br/>
-			Stora Bour, l'appeler, pour plus d'infos, vraiment 2 chambres ? très bien sinon !\""
+			Stora Bour, une seule chambre et une autre à 5 minute chez elle, très bien sinon !\""
 	)/*, array( // déjà loué
 			"link" => "http://www.leboncoin.fr/locations/897062992.htm?ca=21_s",
 			"title" => "F3 meublé 70 m² à 5 mn des plages et du centre",
@@ -429,7 +429,8 @@ table td:nth-child(2) {
 			"numberOfParkings" => "\"Parking privé\"",
 			"comments" => "<b>Mike</b> - \"Le fait que la superficie ne soit pas indiquée rend l'annonce super louche ...<br/>
 			Il n'y a pas non plus d'informations en ce qui concerne les commerces proches, ni les transports.<br/>
-			MAIS, il y a de la WiFI et une TV ! =D\""
+			MAIS, il y a de la WiFI et une TV ! =D\"<br/>
+			<b>Clement</b> - \"Il faut vérifier le nombre de places de parking et que tout est bien inclus pour 600 euros car c'est déjà cher"
 	), array(
 			"link" => "http://www.appartager.com/colocation-cannes/colocation-loft-vieil-antibes/h141211134443509",
 			"title" => "Colocation Loft Vieil Antibes",
