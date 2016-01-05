@@ -431,7 +431,7 @@ table td:nth-child(2) {
 			"endDate" => "Non renseignée",
 			"numberOfRooms" => 3,
 			"furniture" => "TV, Wifi, cuisine équipée",
-			"numberOfParkings" => "\"Parking privé\"",
+			"numberOfParkings" => "Une seule place de parking attribuée, \"mais d'autres places sans emplacement\"",
 			"comments" => "<b>Mike</b> - \"Le fait que la superficie ne soit pas indiquée rend l'annonce super louche ...<br/>
 			Il n'y a pas non plus d'informations en ce qui concerne les commerces proches, ni les transports.<br/>
 			MAIS, il y a de la WiFI et une TV ! =D\"<br/>
