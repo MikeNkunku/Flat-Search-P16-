@@ -538,7 +538,7 @@ table td:nth-child(2) {
 		), array(
 				"link" => "http://www.leboncoin.fr/colocations/898184439.htm",
 				"title" => "Je cherche 2 collocataires",
-				"contact" => "contact mail le 05/01 avec réponse",
+				"contact" => "contact mail le 05/01 avec réponse, photos dans le mail",
 				"ownerDetails" => "",
 				"surfaceArea" => "75m², avec un 3ème colocataire, une chambre 15m², l'autre 10m²",
 				"descr" => "appartement dans le centre de Juan les Pins.",							
