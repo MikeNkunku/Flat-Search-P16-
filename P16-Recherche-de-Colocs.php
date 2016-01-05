@@ -313,10 +313,10 @@ table td:nth-child(2) {
 			<br/>Le plus important ... IL Y A UNE TV SI ON VEUT SE FAIRE UNE COLOC' SUPER COOL AVEC DES
 			SOIREES CALL OF ! =D\"<br/>
 			<b>Clément</b> - \"les deux chambres font 9m2 avec 1 lit 140x190 et un armoire penderie.\""
-	), array(
+	)/*, array( // déjà loué
 			"link" => "http://www.leboncoin.fr/locations/879006562.htm?ca=21_s",
 			"title" => "Appartement 3P meublé, 75 M2, à louer jusqu'à Juin",
-			"contact" => "contacté par Mike, appelé le 30/12/2015 mais répondeur, Clément le 05/01, répondeur",
+			"contact" => "contacté par Mike, appelé le 30/12/2015 mais répondeur, Clément le 05/01, répondeur, réponse par sms que déjà loué",
 			"ownerDetails" => "Pierre-Yves (06.26.79.66.34)",
 			"surfaceArea" => "75m²",
 			"descr" => "Appartement meublé avec 2 grandes terrasses, piscine et tennis.<br/>
@@ -331,7 +331,7 @@ table td:nth-child(2) {
 			plutôt envie.<br/>
 			Il faudrait voir les photos des chambres (pr changer x) ).<br/>
 			Aucune information sur la connexion internet, ni sur les transports à proximité.\""
-	), array(
+	)*/, array(
 			"link" => "http://www.leboncoin.fr/colocations/896761417.htm?ca=21_s",
 			"title" => "Vue imprenable sur les îles de Lérins",
 			"contact" => "contacté par Clement, appelé le 26/12/2015 par Clément, mail pour photos envoyé le 05/01",
