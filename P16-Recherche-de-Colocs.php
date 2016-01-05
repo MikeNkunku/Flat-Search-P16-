@@ -180,10 +180,14 @@ table td:nth-child(2) {
 			"numberOfParkings" => "Non renseigné",
 			"comments" => "Aucune photo ...<br/>
 			Aucune information sur le WiFi, ni sur les transports ..."
-	)*/, array(
+	), array( // proprio trop chiante, 3 ans, sur le long terme, pas pour nous 
+				//en gros c'est une vieille d'où l'apprt vieux
+				//elle cherche au moins 3 ans
+				//elle demande genre 12 mois d'avance ^^
+				//une casse couille, le gars était blazé :p
 			"link" => "http://www.leboncoin.fr/locations/889138357.htm?ca=21_s",
 			"title" => "3P centre ville",
-			"contact" => "contacté par Clément",
+			"contact" => "contacté par Clément, appelé le 05/01, impossible, en revanche il me rappelle s'il a qqch",
 			"ownerDetails" => "RIVIERA FONCIER (agence immo) (04.93.67.36.31)",
 			"surfaceArea" => "70m²",
 			"descr" => "Offre publiée par l'agence immo' Riviera Foncier, appartement à proximité des plages
@@ -199,7 +203,7 @@ table td:nth-child(2) {
 			Le fait que le salon soit fat permettra de bien recevoir des invités lorsqu'on fera des
 			soirées ;-)<br/>
 			On ne sait pas non plus s'il y a un ascenseur (le 4è étage, frère ...)\""
-	)/*, array( // loué
+	), array( // loué
 			"link" => "http://www.leboncoin.fr/locations/887527063.htm?ca=21_s",
 			"title" => "Proximité entrée autoroute et Sophia- Antipolis",
 			"contact" => "contacté par Clement",
@@ -217,7 +221,7 @@ table td:nth-child(2) {
 			Vu qu'il n'y a que l'autoroute de mentionée pour les transports, je suppose qu'il faut
 			nécessairement une tuture pour aller à Sophia ...<br/>
 			Le chauffage n'est pas inclus, mais en été, on ne devrait pas avoir de souci ;-)"
-	)*/, array(
+	), array( // désactivé
 			"link" => "http://www.leboncoin.fr/locations/881049533.htm?ca=21_s",
 			"title" => "Location meublée vue mer etudiants Antibes -T3",
 			"contact" => "contacté par Clement",
@@ -234,7 +238,7 @@ table td:nth-child(2) {
 			"numberOfParkings" => "Stationnements libres",
 			"comments" => "<b>Mike</b> - \"Pas mal ;-)<br/>
 			Reste à voir les chambres et s'il y a une TV de disponible :-)\""
-	)/*, array( // annonce désactivée
+	), array( // annonce désactivée
 			"link" => "http://www.leboncoin.fr/locations/880511940.htm?ca=21_s",
 			"title" => "Appartement 3 pièces de 61m²",
 			"contact" => "contacté par Clement",
@@ -312,7 +316,7 @@ table td:nth-child(2) {
 	), array(
 			"link" => "http://www.leboncoin.fr/locations/879006562.htm?ca=21_s",
 			"title" => "Appartement 3P meublé, 75 M2, à louer jusqu'à Juin",
-			"contact" => "contacté par Mike, appelé le 30/12/2015 mais tombé sur répondeur (message laissé pour un rappel)",
+			"contact" => "contacté par Mike, appelé le 30/12/2015 mais répondeur, Clément le 05/01, répondeur",
 			"ownerDetails" => "Pierre-Yves (06.26.79.66.34)",
 			"surfaceArea" => "75m²",
 			"descr" => "Appartement meublé avec 2 grandes terrasses, piscine et tennis.<br/>
@@ -330,7 +334,7 @@ table td:nth-child(2) {
 	), array(
 			"link" => "http://www.leboncoin.fr/colocations/896761417.htm?ca=21_s",
 			"title" => "Vue imprenable sur les îles de Lérins",
-			"contact" => "contacté par Clement, appelé le 26/12/2015 par Clément",
+			"contact" => "contacté par Clement, appelé le 26/12/2015 par Clément, mail pour photos envoyé le 05/01",
 			"ownerDetails" => "auré",
 			"surfaceArea" => "65m²",
 			"descr" => "Appartement lumineux situé au 3ème et dernier étage d'un immeuble d'une résidence
@@ -382,7 +386,7 @@ table td:nth-child(2) {
 			"link" => "http://www.pap.fr/annonce/location-appartement-loft-atelier-maison-residence-avec-service-antibes-06-g8853-a-partir-du-2-pieces-r403901233",
 			"title" => "Location meublée appartement 3 pièces 73 m² Antibes (06)",
 			"contact" => "contacté par Mike",
-			"ownerDetails" => "Unknown (en attente de réponse)",
+			"ownerDetails" => "06 37 31 59 16",
 			"surfaceArea" => "73m²",
 			"descr" => "Appartement avec belle vue sur mer et montagne.<br/>
 			Le logement est composé d'une entrée, d'un séjour avec loggia, 2 chambres avec balcon et armoires ainsi
@@ -394,8 +398,9 @@ table td:nth-child(2) {
 			"numberOfRooms" => 3,
 			"furniture" => "micro-ondes, frigo-congélo, cuisinière mixte (3 plaques gaz et 1 électrique), lave-linge",
 			"numberOfParkings" => "\"Parking privé\"",
-			"comments" => "<b>Mike</b> - \"Aucune info sur la connexion internet et sur les transports à proximité.\""
-	), array(
+			"comments" => "<b>Mike</b> - \"Aucune info sur la connexion internet et sur les transports à proximité.\"<br\>
+							<b>Clement</b> - \"lumineux, cuisine et sbd vieille, un peu cher\""
+	)/*, array( // n'existe plus, semble loué
 			"link" => "http://www.pap.fr/annonce/location-appartement-loft-atelier-maison-residence-avec-service-antibes-06-g8853-a-partir-du-2-pieces-r409101312",
 			"title" => "Location appartement 3 pièces 65 m² Antibes (06)",
 			"contact" => "contacté par Mike",
@@ -412,7 +417,7 @@ table td:nth-child(2) {
 			"numberOfParkings" => "Non renseigné",
 			"comments" => "<b>Mike</b> - \"Aucune info sur la connexion internet.<br/>
 			Il faut surtout savoir si l'offre est valide pour 2 étudiants ^^\""
-	), array(
+	)*/, array(
 			"link" => "http://www.appartager.com/colocation-cannes/deux-chambres-a-louer-600-euros-par-chambre/h141110101723825",
 			"title" => "deux chambres à louer 600 euros par chambre",
 			"contact" => "contacté par Mike",
@@ -488,7 +493,8 @@ table td:nth-child(2) {
 				"numberOfParkings" => "Garage",
 				"comments" => "<b>Mike</b> - \"Il faudrait une photo des chambres.<br/>
 				Malheureusement, celui-ci n'a pas de télé, mais niveau meublement, il y a ce qu'il faut ;-)<br/>
-				PS : la photo de la salle de bain donne pas trop envie en revanche ... #glauque\""
+				PS : la photo de la salle de bain donne pas trop envie en revanche ... #glauque\"<br/>
+				<b>Clement</b> - \"Ca va la salle de bain franchement\""
 		), array(
 				"link" => "http://www.appartager.com/colocation-cannes/tres-beau-3-pieces-plein-centre-de-juan/h151207113158560",
 				"title" => "Très beau 3 pièces plein centre de Juan - Juan-les-Pins",
@@ -511,6 +517,38 @@ table td:nth-child(2) {
 				Elle est OK pour faire en sorte que la visite ait lieu en début janvier 2016.<br/>
 				En ce qui concerne les chambres, une est plus grande que l'autre (lit de 160 pour la 1ère, lit de 140 pour l'autre).<br/>
 				Il ne devrait pas y avoir de souci pour prolonger le contrat jusqu'à mi-juillet, à confirmer pour le prolongement jusqu'à fin juillet.\""
+		), array(
+				"link" => "http://www.pap.fr/annonce/location-appartement-loft-atelier-maison-residence-avec-service-antibes-06-g8853-a-partir-du-2-pieces-r409300373",
+				"title" => "Location meublée appartement 3 pièces 59 m² Antibes (06)",
+				"contact" => "appelé le 05/01, signature demain avec quelqu'un, me rappelle si tjs dispo",
+				"ownerDetails" => "06 74 78 59 93",
+				"surfaceArea" => "59m²",
+				"descr" => "Appartement rez de jardin à loué meublé. Situé à 10 min de Cannes et de Nice. <br/>
+							5 min de Sophia Antipolis et du centre ville. Proche tous commerces. Résidence calme et fermée.<br/>
+							Exposition plein sud et jardin sans vis-à-vis. <br/>
+							Grande pièce à vivre avec cuisine équipée et salon lumineux. Composée de 2 chambres et d'une grande salle de bains. <br/>
+							Terrasse et jardin de 100m2. Chauffage individuel électrique.",
+				"billPerMonth" => "500€, charges comprises",
+				"startDate" => "1er janvier 2016",
+				"endDate" => "fin août 2016",
+				"numberOfRooms" => 3,
+				"furniture" => "Wifi, TV ?",
+				"numberOfParkings" => "une place dans la résidence",
+				"comments" => "<b>Clement</b> - \"\""
+		), array(
+				"link" => "http://www.leboncoin.fr/colocations/898184439.htm",
+				"title" => "Je cherche 2 collocataires",
+				"contact" => "contact mail le 05/01 avec réponse",
+				"ownerDetails" => "",
+				"surfaceArea" => "75m², avec un 3ème colocataire, une chambre 15m², l'autre 10m²",
+				"descr" => "appartement dans le centre de Juan les Pins.",							
+				"billPerMonth" => "550 et 650, charges comprises",
+				"startDate" => "",
+				"endDate" => "",
+				"numberOfRooms" => 4,
+				"furniture" => "Wifi, TV",
+				"numberOfParkings" => "place extérieures, dispo en principe",
+				"comments" => "<b>Clement</b> - \"un peu cher, à voir les photos, mais tout neuf et clean\""
 		)
 	);
 
