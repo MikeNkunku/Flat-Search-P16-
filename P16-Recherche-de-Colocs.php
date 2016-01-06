@@ -39,14 +39,16 @@ table td:nth-child(2) {
 			"link" => "http://www.appartager.com/colocation-cannes/deux-chambres-a-louer-600-euros-par-chambre/h141110101723825",
 			"title" => "deux chambres à louer 600 euros par chambre",
 			"contact" => "contacté par Mike",
-			"ownerDetails" => "colpin (04.93.67.26.26 (agence Immo 2000) ou 06.77.04.92.91 (téléphone personnel) pour convenir d'une date pour la visite avec M. James CAROUE)",
+			"ownerDetails" => "colpin (06.80.02.27.64)<br/>
+				James CAROUE (personne chargée de faire visiter; 06.77.04.92.91)<br/>
+				Visite de l'appart' qui sera faite par Lisa le 07/01/2016 le matin.",
 			"surfaceArea" => "Non renseigné (chelou ...)",
 			"descr" => "Appartement entiètement refait en 2013.<br/>
 			2 chambres \"double\", meublé, TV, Wifi, 1 salle de bain, terrasse, balcon et cuisine équipée.<br/>
 			\"Possibilité de 9 couchages\"",
 			"billPerMonth" => "600€ par chambre",
 			"startDate" => "09 décembre 2015 (date de l'annonce)",
-			"endDate" => "Non renseignée",
+			"endDate" => "22 juillet 2016 (JC m'hébergera pour la semaine qui me restera à faire ;-) )",
 			"numberOfRooms" => 3,
 			"furniture" => "TV, Wifi, cuisine équipée",
 			"numberOfParkings" => "Une seule place de parking attribuée, \"mais d'autres places sans emplacement\"",
