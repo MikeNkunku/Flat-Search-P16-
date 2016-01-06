@@ -571,13 +571,13 @@ table td:nth-child(2) {
 				"surfaceArea" => "120m²",
 				"descr" => "Nous vous proposons un magnifique appartement de 4 pièces de 120m² situé au deuxième et dernier étage, entièrement refait à neuf. Tout équipé.<br\>
 							Idéalement situé au 1 avenue de l'Estérel, en plein centre ville à 1 mn de la gare et 3 mn de la plage.",							
-				"billPerMonth" => "600 ?",
-				"startDate" => "",
-				"endDate" => "",
+				"billPerMonth" => "600/pers pour 3, 900 chacun à 2",
+				"startDate" => "janvier",
+				"endDate" => "fin juin, déjà loué en juillet",
 				"numberOfRooms" => 4,
 				"furniture" => "Wifi, TV",
 				"numberOfParkings" => "Places de parking publiques gratuit disponibles proches de l'appartement.",
-				"comments" => "<b>Clement</b> - \"Chelou, on va voir\""
+				"comments" => "<b>Clement</b> - \"\""
 		), array(
 				"link" => "http://www.leboncoin.fr/colocations/899633412.htm?ca=21_s",
 				"title" => "Bel appt JUAN LESPINS 51M2(2étudiants)500E P/PERS",
