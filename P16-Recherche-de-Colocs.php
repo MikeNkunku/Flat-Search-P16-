@@ -549,7 +549,64 @@ table td:nth-child(2) {
 				"furniture" => "Wifi, TV",
 				"numberOfParkings" => "place extérieures, dispo en principe",
 				"comments" => "<b>Clement</b> - \"un peu cher, à voir les photos, mais tout neuf et clean\""
-		)
+		), array(
+				"link" => "https://fr-fr.roomlala.com/location-vacance/FR-France/antibes/3p-en-rez-de-jardin-entierement-refait-a-louer-96016-fr?popup_dmer&group_track=register_tenant_ok",
+				"title" => "3P en rez-de-jardin entièrement refait à louer",
+				"contact" => "Clément mail par roomlala le 06/01",
+				"ownerDetails" => "",
+				"surfaceArea" => "60m²",
+				"descr" => "3 pièces tout confort à l'arrière d'une maison en centre-ville. Calme, idéal pour famille avec bébés. Tout l'équipement est disponible. Linge gratuit à la demande.",							
+				"billPerMonth" => "749",
+				"startDate" => "",
+				"endDate" => "",
+				"numberOfRooms" => 3,
+				"furniture" => "",
+				"numberOfParkings" => "",
+				"comments" => "<b>Clement</b> - \"Ecrit max 3 mois, à vérifier avec le proprio\""
+		), array(
+				"link" => "http://www.leboncoin.fr/colocations/903594451.htm?ca=21_s",
+				"title" => "Magnifique appartement de 4 pièces de 120m²",
+				"contact" => "Clément téléphone le 06/01, message laissé",
+				"ownerDetails" => "06.09.83.01.21.",
+				"surfaceArea" => "120m²",
+				"descr" => "Nous vous proposons un magnifique appartement de 4 pièces de 120m² situé au deuxième et dernier étage, entièrement refait à neuf. Tout équipé.<br\>
+							Idéalement situé au 1 avenue de l'Estérel, en plein centre ville à 1 mn de la gare et 3 mn de la plage.",							
+				"billPerMonth" => "600 ?",
+				"startDate" => "",
+				"endDate" => "",
+				"numberOfRooms" => 4,
+				"furniture" => "Wifi, TV",
+				"numberOfParkings" => "Places de parking publiques gratuit disponibles proches de l'appartement.",
+				"comments" => "<b>Clement</b> - \"Chelou, on va voir\""
+		), array(
+				"link" => "http://www.leboncoin.fr/colocations/899633412.htm?ca=21_s",
+				"title" => "Bel appt JUAN LESPINS 51M2(2étudiants)500E P/PERS",
+				"contact" => "Clément mail le 06/01",
+				"ownerDetails" => "",
+				"surfaceArea" => "51m²",
+				"descr" => "",							
+				"billPerMonth" => "500",
+				"startDate" => "",
+				"endDate" => "fin juin",
+				"numberOfRooms" => 3,
+				"furniture" => "",
+				"numberOfParkings" => "",
+				"comments" => "<b>Clement</b> - \"Met fin juin, je vais voir si on peut prolonger un peu\""
+		)/*, array( // déjà loué jusqu'à fin mai, j'ai eu la fille au téléphone
+				"link" => "http://www.leboncoin.fr/colocations/891658319.htm?ca=21_s",
+				"title" => "Appartement dans Villa",
+				"contact" => "Clément téléphone le 06/01",
+				"ownerDetails" => "",
+				"surfaceArea" => "",
+				"descr" => "",							
+				"billPerMonth" => "500",
+				"startDate" => "",
+				"endDate" => "",
+				"numberOfRooms" => 4,
+				"furniture" => "",
+				"numberOfParkings" => "",
+				"comments" => ""
+		)*/
 	);
 
 	foreach($links as $l) {
