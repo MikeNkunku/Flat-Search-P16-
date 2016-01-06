@@ -36,6 +36,47 @@ table td:nth-child(2) {
 	<?php
 	$links = array(
 		array(
+			"link" => "http://www.appartager.com/colocation-cannes/deux-chambres-a-louer-600-euros-par-chambre/h141110101723825",
+			"title" => "deux chambres à louer 600 euros par chambre",
+			"contact" => "contacté par Mike",
+			"ownerDetails" => "colpin (04.93.67.26.26 (agence Immo 2000) ou 06.77.04.92.91 (téléphone personnel) pour convenir d'une date pour la visite avec M. James CAROUE)",
+			"surfaceArea" => "Non renseigné (chelou ...)",
+			"descr" => "Appartement entiètement refait en 2013.<br/>
+			2 chambres \"double\", meublé, TV, Wifi, 1 salle de bain, terrasse, balcon et cuisine équipée.<br/>
+			\"Possibilité de 9 couchages\"",
+			"billPerMonth" => "600€ par chambre",
+			"startDate" => "09 décembre 2015 (date de l'annonce)",
+			"endDate" => "Non renseignée",
+			"numberOfRooms" => 3,
+			"furniture" => "TV, Wifi, cuisine équipée",
+			"numberOfParkings" => "Une seule place de parking attribuée, \"mais d'autres places sans emplacement\"",
+			"comments" => "<b>Mike</b> - \"Le fait que la superficie ne soit pas indiquée rend l'annonce super louche ...<br/>
+			Il n'y a pas non plus d'informations en ce qui concerne les commerces proches, ni les transports.<br/>
+			MAIS, il y a de la WiFI et une TV ! =D\"<br/>
+			<b>Clement</b> - \"Il faut vérifier le nombre de places de parking et que tout est bien inclus pour 600 euros car c'est déjà cher"
+		), array(
+			"link" => "http://www.appartager.com/colocation-cannes/tres-beau-3-pieces-plein-centre-de-juan/h151207113158560",
+			"title" => "Très beau 3 pièces plein centre de Juan - Juan-les-Pins",
+			"contact" => "contacté par Mike (appelé le 29/12/2015)",
+			"ownerDetails" => "Maxime (06.19.30.67.12)", // (ou 07.68.30.78.70)
+			"surfaceArea" => "51-52m²",
+			"descr" => "Appartement situé en plein coeur de Juan les Pins.<br/>
+			Appartement \"entièrement meublé\" au 3ème étage, à 150m de la plage et à proximité des commerces et des bus pour Sophia-Antipolis/Cannes/Nice.<br/>
+			L'immeuble (bourgeois) est doté d'un ascenseur.<br/>
+			Pour compenser l'absence de machine à laver, une laverie est accessible à moins de 50m de l'immeuble.",
+			"billPerMonth" => "500€ (550€ charges comprises)",
+			"startDate" => "1er janvier 2016",
+			"endDate" => "fin juin 2016",
+			"numberOfRooms" => 3,
+			"furniture" => "Oui : TV, wifi, sèche-linge mécanique",
+			"numberOfParkings" => "Non renseigné",
+			"comments" => "<b>Mike</b> - \"Il a l'air vraiment pas mal.<br/>
+			Seul petit hic : la fin en juin 2016, mais je pense que je vais quand même le contacter :-)\"<br/>
+			\"Le proprio est en vacs aux Philippines actuellement, du coup, c'est sa mère (en Bretagne) qui s'occupe de l'affaire jusqu'à son retour (le 15 janvier 2016).<br/>
+			Elle est OK pour faire en sorte que la visite ait lieu en début janvier 2016.<br/>
+			En ce qui concerne les chambres, une est plus grande que l'autre (lit de 160 pour la 1ère, lit de 140 pour l'autre).<br/>
+			Il ne devrait pas y avoir de souci pour prolonger le contrat jusqu'à mi-juillet, à confirmer pour le prolongement jusqu'à fin juillet.\""
+		), array(
 			"link" => "http://www.leboncoin.fr/locations/900429640.htm?ca=21_s",
 			"title" => "3P Bas de villa avec jardin centre Antibes",
 			"contact" => "contacté par Clément (réponse obtenue)",
@@ -146,25 +187,6 @@ table td:nth-child(2) {
 			"comments" => "<b>Mike</b> - \"Aucune info sur la connexion internet et sur les transports à proximité.\"<br\>
 			<b>Clement</b> - \"lumineux, cuisine et sbd vieille, un peu cher\""
 		), array(
-			"link" => "http://www.appartager.com/colocation-cannes/deux-chambres-a-louer-600-euros-par-chambre/h141110101723825",
-			"title" => "deux chambres à louer 600 euros par chambre",
-			"contact" => "contacté par Mike",
-			"ownerDetails" => "colpin (04.93.67.26.26 (agence Immo 2000) ou 06.77.04.92.91 (téléphone personnel) pour convenir d'une date pour la visite avec M. James CAROUE)",
-			"surfaceArea" => "Non renseigné (chelou ...)",
-			"descr" => "Appartement entiètement refait en 2013.<br/>
-			2 chambres \"double\", meublé, TV, Wifi, 1 salle de bain, terrasse, balcon et cuisine équipée.<br/>
-			\"Possibilité de 9 couchages\"",
-			"billPerMonth" => "600€ par chambre",
-			"startDate" => "09 décembre 2015 (date de l'annonce)",
-			"endDate" => "Non renseignée",
-			"numberOfRooms" => 3,
-			"furniture" => "TV, Wifi, cuisine équipée",
-			"numberOfParkings" => "Une seule place de parking attribuée, \"mais d'autres places sans emplacement\"",
-			"comments" => "<b>Mike</b> - \"Le fait que la superficie ne soit pas indiquée rend l'annonce super louche ...<br/>
-			Il n'y a pas non plus d'informations en ce qui concerne les commerces proches, ni les transports.<br/>
-			MAIS, il y a de la WiFI et une TV ! =D\"<br/>
-			<b>Clement</b> - \"Il faut vérifier le nombre de places de parking et que tout est bien inclus pour 600 euros car c'est déjà cher"
-		), array(
 			"link" => "http://www.appartager.com/colocation-cannes/colocation-loft-vieil-antibes/h141211134443509",
 			"title" => "Colocation Loft Vieil Antibes",
 			"contact" => "contacté par Mike",
@@ -205,31 +227,9 @@ table td:nth-child(2) {
 			PS : la photo de la salle de bain donne pas trop envie en revanche ... #glauque\"<br/>
 			<b>Clement</b> - \"Ca va la salle de bain franchement\""
 		), array(
-			"link" => "http://www.appartager.com/colocation-cannes/tres-beau-3-pieces-plein-centre-de-juan/h151207113158560",
-			"title" => "Très beau 3 pièces plein centre de Juan - Juan-les-Pins",
-			"contact" => "contacté par Mike (appelé le 29/12/2015)",
-			"ownerDetails" => "Maxime (06.19.30.67.12)", // (ou 07.68.30.78.70)
-			"surfaceArea" => "51-52m²",
-			"descr" => "Appartement situé en plein coeur de Juan les Pins.<br/>
-			Appartement \"entièrement meublé\" au 3ème étage, à 150m de la plage et à proximité des commerces et des bus pour Sophia-Antipolis/Cannes/Nice.<br/>
-			L'immeuble (bourgeois) est doté d'un ascenseur.<br/>
-			Pour compenser l'absence de machine à laver, une laverie est accessible à moins de 50m de l'immeuble.",
-			"billPerMonth" => "500€ (550€ charges comprises)",
-			"startDate" => "1er janvier 2016",
-			"endDate" => "fin juin 2016",
-			"numberOfRooms" => 3,
-			"furniture" => "Oui : TV, wifi, sèche-linge mécanique",
-			"numberOfParkings" => "Non renseigné",
-			"comments" => "<b>Mike</b> - \"Il a l'air vraiment pas mal.<br/>
-			Seul petit hic : la fin en juin 2016, mais je pense que je vais quand même le contacter :-)\"<br/>
-			\"Le proprio est en vacs aux Philippines actuellement, du coup, c'est sa mère (en Bretagne) qui s'occupe de l'affaire jusqu'à son retour (le 15 janvier 2016).<br/>
-			Elle est OK pour faire en sorte que la visite ait lieu en début janvier 2016.<br/>
-			En ce qui concerne les chambres, une est plus grande que l'autre (lit de 160 pour la 1ère, lit de 140 pour l'autre).<br/>
-			Il ne devrait pas y avoir de souci pour prolonger le contrat jusqu'à mi-juillet, à confirmer pour le prolongement jusqu'à fin juillet.\""
-		), array(
 			"link" => "http://www.pap.fr/annonce/location-appartement-loft-atelier-maison-residence-avec-service-antibes-06-g8853-a-partir-du-2-pieces-r409300373",
 			"title" => "Location meublée appartement 3 pièces 59 m² Antibes (06)",
-			"contact" => "appelé le 05/01, signature demain avec quelqu'un, me rappelle si tjs dispo",
+			"contact" => "appelé le 05/01 par Clément, signature demain avec quelqu'un, me rappelle si tjs dispo",
 			"ownerDetails" => "06 74 78 59 93",
 			"surfaceArea" => "59m²",
 			"descr" => "Appartement rez de jardin à loué meublé. Situé à 10 min de Cannes et de Nice. <br/>
@@ -301,8 +301,7 @@ table td:nth-child(2) {
 			"furniture" => "",
 			"numberOfParkings" => "",
 			"comments" => "<b>Clement</b> - \"Met fin juin, je vais voir si on peut prolonger un peu\""
-		)
-		/*array( // déjà loué
+		)/*, array( // déjà loué
 		 	"link" => "http://www.leboncoin.fr/locations/897192339.htm?ca=21_s",
 			"title" => "3 pièces rénové au dernier étage avec vue sur mer",
 			"surfaceArea" => "63m²",
