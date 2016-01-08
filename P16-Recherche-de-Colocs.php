@@ -227,17 +227,27 @@ table td:nth-child(2) {
 		), array(
 			"link" => "http://www.leboncoin.fr/colocations/898184439.htm",
 			"title" => "Je cherche 2 collocataires",
-			"contact" => "contact mail le 05/01 avec réponse, photos dans le mail, skype : marco.manghisi",
-			"ownerDetails" => "",
-			"surfaceArea" => "75m², avec un 3ème colocataire, une chambre 15m², l'autre 10m²",
-			"descr" => "appartement dans le centre de Juan les Pins.",							
-			"billPerMonth" => "550 et 650, charges comprises",
-			"startDate" => "",
-			"endDate" => "",
+			"contact" => "Clément (mail envoyé le 05/01 avec réponse, photos dans le mail).<br/>
+				Visite Skype effectuée par Clément le 06/01/2016.",
+			"ownerDetails" => "Marco MANGHISI<br/>
+				Skype : marco.manghisi",
+			"surfaceArea" => "75m², avec un 3ème colocataire (le proprio, càd, Marco), une chambre 15m², l'autre 10m²",
+			"descr" => "Appartement dans le centre de Juan les Pins.<br/>
+				Bus à proximité pour Sophia-Antipolis.<br/>
+				L'appart' étant dans le centre, les commerces ne sont pas loin.<br/>",							
+			"billPerMonth" => "550€ et 650€, charges comprises",
+			"startDate" => "Disponible maintenant",
+			"endDate" => "À préciser lors de la signature du contrat",
 			"numberOfRooms" => 4,
-			"furniture" => "Wifi, TV",
+			"furniture" => "Wifi, TV et plus (suffisamment complet pour subvenir à nos besoins matériels)",
 			"numberOfParkings" => "place extérieures, dispo en principe",
-			"comments" => "<b>Clement</b> - \"un peu cher, à voir les photos, mais tout neuf et clean\""
+			"comments" => "<b>Clement</b> - \"un peu cher, à voir les photos, mais tout neuf et clean\"<br/>
+				<b>Mike</b> - \"Du résumé que tu m'avais fait du Skype, honnêtement, je pense qu'il est top.<br/>
+				Juste pour avoir une confirmation, j'aimerais que tu lui demandes si on touche les APL O:-)<br/>
+				Le seul hic : habiter avec son proprio xD<br/>
+				Vu qu'il a 25 ballets, je pense que ça devrait se faire sans trop de souci perso ^^<br/>
+				Etant donné qu'on a plus ou moins un avantage par rapport à l'autre personne (seule) qui est intéressée par l'offre, l'appeler au plus tôt pour clôturer nos recherches
+				ne serait pas mal ^^\""
 		), array(
 			"link" => "https://fr-fr.roomlala.com/location-vacance/FR-France/antibes/3p-en-rez-de-jardin-entierement-refait-a-louer-96016-fr?popup_dmer&group_track=register_tenant_ok",
 			"title" => "3P en rez-de-jardin entièrement refait à louer",
@@ -268,6 +278,27 @@ table td:nth-child(2) {
 			"numberOfParkings" => "Places de parking publiques gratuit disponibles proches de l'appartement.",
 			"comments" => "<b>Clement</b> - \"\""
 		), array(
+<<<<<<< HEAD
+=======
+			"link" => "http://www.leboncoin.fr/colocations/899633412.htm?ca=21_s",
+			"title" => "Bel appt JUAN LESPINS 51M2(2étudiants)500E P/PERS",
+			"contact" => "Clément (mail envoyé le 06/01)",
+			"ownerDetails" => "lemoine (06.19.30.67.12)",
+			"surfaceArea" => "51m²",
+			"descr" => "Appartement à 150m de la mer, et à proximité de commerces.<br/>
+				Des bus pour aller à Sophia sont pas loin du logement, et la gare est à 10mn de marche.<br/>
+				Les deux chambres à disposition sont à louer TCC (eau, internet, EDF).",
+			"billPerMonth" => "500€",
+			"startDate" => "1er janvier 2016",
+			"endDate" => "fin juin 2016",
+			"numberOfRooms" => 3,
+			"furniture" => "D'après les photos, il a l'air meublé et il y a une TV",
+			"numberOfParkings" => "-",
+			"comments" => "<b>Clement</b> - \"Met fin juin, je vais voir si on peut prolonger un peu\"<br/>
+				<b>Mike</b> - \"Le prix est pas mal, mais faut vraiment avoir des infos sur le meublement de l'appart' : machine à laver, cuisine équipée, TV ?<br/>
+				Histoire de donner une réponse le plus rapidement possible à Marco, je pense qu'il faut directement envisager une visite de l'appartement par Skype.\""
+		), array(
+>>>>>>> e969b93eba9e1e1426ad1fb772207d0ad015b4a8
 			"link" => "http://www.leboncoin.fr/locations/897062992.htm?ca=21_s",
 			"title" => "F3 meublé 70 m² à 5 mn des plages et du centre",
 			"contact" => "contacté par Mike",
