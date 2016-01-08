@@ -270,17 +270,21 @@ table td:nth-child(2) {
 		), array(
 			"link" => "http://www.leboncoin.fr/colocations/899633412.htm?ca=21_s",
 			"title" => "Bel appt JUAN LESPINS 51M2(2étudiants)500E P/PERS",
-			"contact" => "Clément mail le 06/01",
-			"ownerDetails" => "06.19.30.67.12",
+			"contact" => "Clément (mail envoyé le 06/01)",
+			"ownerDetails" => "lemoine (06.19.30.67.12)",
 			"surfaceArea" => "51m²",
-			"descr" => "",							
-			"billPerMonth" => "500",
-			"startDate" => "",
-			"endDate" => "fin juin",
+			"descr" => "Appartement à 150m de la mer, et à proximité de commerces.<br/>
+				Des bus pour aller à Sophia sont pas loin du logement, et la gare est à 10mn de marche.<br/>
+				Les deux chambres à disposition sont à louer TCC (eau, internet, EDF).",
+			"billPerMonth" => "500€",
+			"startDate" => "1er janvier 2016",
+			"endDate" => "fin juin 2016",
 			"numberOfRooms" => 3,
-			"furniture" => "",
-			"numberOfParkings" => "",
-			"comments" => "<b>Clement</b> - \"Met fin juin, je vais voir si on peut prolonger un peu\""
+			"furniture" => "D'après les photos, il a l'air meublé et il y a une TV",
+			"numberOfParkings" => "-",
+			"comments" => "<b>Clement</b> - \"Met fin juin, je vais voir si on peut prolonger un peu\"<br/>
+				<b>Mike</b> - \"Le prix est pas mal, mais faut vraiment avoir des infos sur le meublement de l'appart' : machine à laver, cuisine équipée, TV ?<br/>
+				Histoire de donner une réponse le plus rapidement possible à Marco, je pense qu'il faut directement envisager une visite de l'appartement par Skype.\""
 		), array(
 			"link" => "http://www.leboncoin.fr/locations/897062992.htm?ca=21_s",
 			"title" => "F3 meublé 70 m² à 5 mn des plages et du centre",
