@@ -268,20 +268,6 @@ table td:nth-child(2) {
 			"numberOfParkings" => "Places de parking publiques gratuit disponibles proches de l'appartement.",
 			"comments" => "<b>Clement</b> - \"\""
 		), array(
-			"link" => "http://www.leboncoin.fr/colocations/899633412.htm?ca=21_s",
-			"title" => "Bel appt JUAN LESPINS 51M2(2étudiants)500E P/PERS",
-			"contact" => "Clément mail le 06/01",
-			"ownerDetails" => "06.19.30.67.12",
-			"surfaceArea" => "51m²",
-			"descr" => "",							
-			"billPerMonth" => "500",
-			"startDate" => "",
-			"endDate" => "fin juin",
-			"numberOfRooms" => 3,
-			"furniture" => "",
-			"numberOfParkings" => "",
-			"comments" => "<b>Clement</b> - \"Met fin juin, je vais voir si on peut prolonger un peu\""
-		), array(
 			"link" => "http://www.leboncoin.fr/locations/897062992.htm?ca=21_s",
 			"title" => "F3 meublé 70 m² à 5 mn des plages et du centre",
 			"contact" => "contacté par Mike",
@@ -298,7 +284,21 @@ table td:nth-child(2) {
 			"numberOfParkings" => "\"Parking privé\"",
 			"comments" => "Pas d'info sur le WiFi, ni sur les transports.<br/>
 			Niveau meublement de l'appart', des infos supplémentaires seraient fort bienvenues ^^"
-		)/*, array( // déjà loué, nouvelle apprise le 06/01/2016 après appel
+		)/*, array( // loué
+			"link" => "http://www.leboncoin.fr/colocations/899633412.htm?ca=21_s",
+			"title" => "Bel appt JUAN LESPINS 51M2(2étudiants)500E P/PERS",
+			"contact" => "Clément mail le 06/01",
+			"ownerDetails" => "06.19.30.67.12",
+			"surfaceArea" => "51m²",
+			"descr" => "",							
+			"billPerMonth" => "500",
+			"startDate" => "",
+			"endDate" => "fin juin",
+			"numberOfRooms" => 3,
+			"furniture" => "",
+			"numberOfParkings" => "",
+			"comments" => "<b>Clement</b> - \"Met fin juin, je vais voir si on peut prolonger un peu\""
+		), array( // déjà loué, nouvelle apprise le 06/01/2016 après appel
 			"link" => "http://www.appartager.com/colocation-cannes/tres-beau-3-pieces-plein-centre-de-juan/h151207113158560",
 			"title" => "Très beau 3 pièces plein centre de Juan - Juan-les-Pins",
 			"contact" => "contacté par Mike (appelé le 29/12/2015)",
