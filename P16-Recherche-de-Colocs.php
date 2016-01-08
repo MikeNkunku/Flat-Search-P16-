@@ -36,6 +36,30 @@ table td:nth-child(2) {
 	<?php
 	$links = array(
 		array(
+			"link" => "http://www.leboncoin.fr/colocations/898184439.htm",
+			"title" => "Je cherche 2 collocataires",
+			"contact" => "Clément (mail envoyé le 05/01 avec réponse, photos dans le mail).<br/>
+				Visite Skype effectuée par Clément le 06/01/2016.",
+			"ownerDetails" => "Marco MANGHISI<br/>
+				Skype : marco.manghisi",
+			"surfaceArea" => "75m², avec un 3ème colocataire (le proprio, càd, Marco), une chambre 15m², l'autre 10m²",
+			"descr" => "Appartement dans le centre de Juan les Pins.<br/>
+				Bus à proximité pour Sophia-Antipolis.<br/>
+				L'appart' étant dans le centre, les commerces ne sont pas loin.<br/>",							
+			"billPerMonth" => "550€ et 650€, charges comprises",
+			"startDate" => "Disponible maintenant",
+			"endDate" => "À préciser lors de la signature du contrat",
+			"numberOfRooms" => 4,
+			"furniture" => "Wifi, TV et plus (suffisamment complet pour subvenir à nos besoins matériels)",
+			"numberOfParkings" => "place extérieures, dispo en principe",
+			"comments" => "<b>Clement</b> - \"un peu cher, à voir les photos, mais tout neuf et clean\"<br/>
+				<b>Mike</b> - \"Du résumé que tu m'avais fait du Skype, honnêtement, je pense qu'il est top.<br/>
+				Juste pour avoir une confirmation, j'aimerais que tu lui demandes si on touche les APL O:-)<br/>
+				Le seul hic : habiter avec son proprio xD<br/>
+				Vu qu'il a 25 ballets, je pense que ça devrait se faire sans trop de souci perso ^^<br/>
+				Etant donné qu'on a plus ou moins un avantage par rapport à l'autre personne (seule) qui est intéressée par l'offre, l'appeler au plus tôt pour clôturer nos recherches
+				ne serait pas mal ^^\""
+		), array(
 			"link" => "http://www.appartager.com/colocation-cannes/deux-chambres-a-louer-600-euros-par-chambre/h141110101723825",
 			"title" => "deux chambres à louer 600 euros par chambre",
 			"contact" => "contacté par Mike",
@@ -46,7 +70,7 @@ table td:nth-child(2) {
 			"descr" => "Appartement entiètement refait en 2013.<br/>
 			2 chambres \"double\", meublé, TV, Wifi, 1 salle de bain, terrasse, balcon et cuisine équipée.<br/>
 			\"Possibilité de 9 couchages\"",
-			"billPerMonth" => "600€ par chambre",
+			"billPerMonth" => "600€ par chambre + des charges",
 			"startDate" => "09 décembre 2015 (date de l'annonce)",
 			"endDate" => "22 juillet 2016 (JC m'hébergera pour la semaine qui me restera à faire ;-) )",
 			"numberOfRooms" => 3,
@@ -56,25 +80,6 @@ table td:nth-child(2) {
 			Il n'y a pas non plus d'informations en ce qui concerne les commerces proches, ni les transports.<br/>
 			MAIS, il y a de la WiFI et une TV ! =D\"<br/>
 			<b>Clement</b> - \"Il faut vérifier le nombre de places de parking et que tout est bien inclus pour 600 euros car c'est déjà cher"
-		), array(
-			"link" => "http://www.leboncoin.fr/locations/900429640.htm?ca=21_s",
-			"title" => "3P Bas de villa avec jardin centre Antibes",
-			"contact" => "contacté par Clément (réponse obtenue)",
-			"ownerDetails" => "Elisa BOCCALINI <elisetta81@hotmail.com> (06.15.38.30.58)",
-			"surfaceArea" => "65 ou 68m²",
-			"descr" => "Appartement au RDC d'une villa avec un grand jardin privatif en plein centre-ville
-			d'Antibes.<br/>
-			Situé à proximité des plages d'Antibes et de Juan les Pins.",
-			"billPerMonth" => "1090€",
-			"startDate" => "Janvier 2016",
-			"endDate" => "Fin juin 2016 (pas de disponibilité pour l'été)",
-			"numberOfRooms" => 3,
-			"furniture" => "Pas vraiment renseigné (penderie, douche, WC)",
-			"numberOfParkings" => "2 places pour des voitures (cf email)",
-			"comments" => "<b>Mike</b> - \"Pas vraiment d'informations en ce qui concerne les transports à proximité.<br/>
-			Manque de photos, notamment pour les chambres et l'intérieur.<br/>
-			Pas de détails explicites sur les charges (WiFi ?)\"<br/>
-			\"Suite à ton email, elle a répondu qu'elle était en vacs jusqu'au 4 janvier, date à partir de laquelle elle pourra nous envoyer des photos.\""
 		), array(
 			"link" => "http://www.leboncoin.fr/colocations/898730529.htm?ca=21_s",
 			"title" => "Appartement pour etudiant ou 2 colocations",
@@ -167,27 +172,6 @@ table td:nth-child(2) {
 			"comments" => "<b>Mike</b> - \"Aucune info sur la connexion internet et sur les transports à proximité.\"<br\>
 			<b>Clement</b> - \"lumineux, cuisine et sbd vieille, un peu cher\""
 		), array(
-			"link" => "http://www.appartager.com/colocation-cannes/colocation-loft-vieil-antibes/h141211134443509",
-			"title" => "Colocation Loft Vieil Antibes",
-			"contact" => "contacté par Mike",
-			"ownerDetails" => "Audrey & Julien GALLINA <loft16vauban@gmail.com> (réponse eue le 18 décembre, répondu le 26 décembre en lui donnant comme date de départ du logement \"fin juillet 2016\")",
-			"surfaceArea" => "70m²",
-			"descr" => "Appartement contemporain climatisé dans un vieil immeuble d'Antibes, situé \"16 rue Vauban\".<br/>
-			Les deux chambres ont un lit double.<br/>
-			Il y a un salon avec 2 canapés et un bureau.<br/>
-			L'appart' est situé à 1mn à pied de la gare routière, à 3mn de la gare SNCF et moyens de transport accessibles pour aller à Sophia, Nice et Cannes.<br/>
-			La caution de 500€ est encaissable et l'allocation logement peut être fournie sur demande.",
-			"billPerMonth" => "550€ (650€ charges comprises)",
-			"startDate" => "1er janvier 2016",
-			"endDate" => "Mai 2016",
-			"numberOfRooms" => 3,
-			"furniture" => "TV par câble, linge pour les chambres (couette, draps, coussins, protection matelas), cuisine équipée,
-			lave-vaisselle, four, micro-ondes, lave-linge, aspirateur, fer à repasser",
-			"numberOfParkings" => "\"Parking privé\"",
-			"comments" => "<b>Mike</b> - \"Franchement, il a l'air top ! Espérons qu'il soit encore dispo ^^\"<br/>
-			<b>Clément</b> - \"Cher ^^ La taxe d'habitation doit normalement être payée au pire des cas.<br/>
-			Sinon, très bien :-)\""
-		), array(
 			"link" => "https://fr-fr.roomlala.com/colocation/FR-France/antibes/antibes-cente-ville-ideal-etudiants-116964-fr",
 			"title" => "Antibes cente ville idéal étudiants",
 			"contact" => "contacté par Mike",
@@ -225,30 +209,6 @@ table td:nth-child(2) {
 			"numberOfParkings" => "une place dans la résidence",
 			"comments" => "<b>Clement</b> - \"\""
 		), array(
-			"link" => "http://www.leboncoin.fr/colocations/898184439.htm",
-			"title" => "Je cherche 2 collocataires",
-			"contact" => "Clément (mail envoyé le 05/01 avec réponse, photos dans le mail).<br/>
-				Visite Skype effectuée par Clément le 06/01/2016.",
-			"ownerDetails" => "Marco MANGHISI<br/>
-				Skype : marco.manghisi",
-			"surfaceArea" => "75m², avec un 3ème colocataire (le proprio, càd, Marco), une chambre 15m², l'autre 10m²",
-			"descr" => "Appartement dans le centre de Juan les Pins.<br/>
-				Bus à proximité pour Sophia-Antipolis.<br/>
-				L'appart' étant dans le centre, les commerces ne sont pas loin.<br/>",							
-			"billPerMonth" => "550€ et 650€, charges comprises",
-			"startDate" => "Disponible maintenant",
-			"endDate" => "À préciser lors de la signature du contrat",
-			"numberOfRooms" => 4,
-			"furniture" => "Wifi, TV et plus (suffisamment complet pour subvenir à nos besoins matériels)",
-			"numberOfParkings" => "place extérieures, dispo en principe",
-			"comments" => "<b>Clement</b> - \"un peu cher, à voir les photos, mais tout neuf et clean\"<br/>
-				<b>Mike</b> - \"Du résumé que tu m'avais fait du Skype, honnêtement, je pense qu'il est top.<br/>
-				Juste pour avoir une confirmation, j'aimerais que tu lui demandes si on touche les APL O:-)<br/>
-				Le seul hic : habiter avec son proprio xD<br/>
-				Vu qu'il a 25 ballets, je pense que ça devrait se faire sans trop de souci perso ^^<br/>
-				Etant donné qu'on a plus ou moins un avantage par rapport à l'autre personne (seule) qui est intéressée par l'offre, l'appeler au plus tôt pour clôturer nos recherches
-				ne serait pas mal ^^\""
-		), array(
 			"link" => "https://fr-fr.roomlala.com/location-vacance/FR-France/antibes/3p-en-rez-de-jardin-entierement-refait-a-louer-96016-fr?popup_dmer&group_track=register_tenant_ok",
 			"title" => "3P en rez-de-jardin entièrement refait à louer",
 			"contact" => "Clément mail par roomlala le 06/01",
@@ -264,7 +224,7 @@ table td:nth-child(2) {
 			"comments" => "<b>Clement</b> - \"Ecrit max 3 mois, à vérifier avec le proprio\""
 		), array(
 			"link" => "http://www.leboncoin.fr/colocations/903594451.htm?ca=21_s",
-			"title" => "Magnifique appartement de 4 pièces de 120m²",
+			"title" => "Magnifique appartement de 4 pièces de 120m² (FIN JUIN)",
 			"contact" => "Clément téléphone le 06/01, message laissé",
 			"ownerDetails" => "06.09.83.01.21.",
 			"surfaceArea" => "120m²",
@@ -276,10 +236,66 @@ table td:nth-child(2) {
 			"numberOfRooms" => 4,
 			"furniture" => "Wifi, TV",
 			"numberOfParkings" => "Places de parking publiques gratuit disponibles proches de l'appartement.",
-			"comments" => "<b>Clement</b> - \"\""
+			"comments" => "<b>Clement</b> - \"Déjà loué en juillet, donc fin juin, nan\""
 		), array(
-<<<<<<< HEAD
-=======
+			"link" => "http://www.leboncoin.fr/locations/897062992.htm?ca=21_s",
+			"title" => "F3 meublé 70 m² à 5 mn des plages et du centre",
+			"contact" => "contacté par Mike",
+			"ownerDetails" => "",
+			"surfaceArea" => "70m²",
+			"descr" => "Appartement situé au 4è étage (avec ascenseur) et noté \"3 étoiles\".<br/>
+			L'appartement est comoposé de 2 chambres, un balcon donnant sur l'ouest, un grand salon, une
+			buanderie, une salle de bain et un WC indépendant.<br/>
+			Il est situé à 5mn à pied de la vieille ville et des plages.",
+			"billPerMonth" => "1200€",
+			"startDate" => "Non renseignée",
+			"endDate" => "Non renseignée",
+			"numberOfRooms" => 3,
+			"furniture" => "\"Cuisine entièrement équipée",
+			"numberOfParkings" => "\"Parking privé\"",
+			"comments" => "Pas d'info sur le WiFi, ni sur les transports.<br/>
+			Niveau meublement de l'appart', des infos supplémentaires seraient fort bienvenues ^^"
+		), array(
+			"link" => "http://www.appartager.com/colocation-cannes/colocation-loft-vieil-antibes/h141211134443509",
+			"title" => "Colocation Loft Vieil Antibes",
+			"contact" => "contacté par Mike",
+			"ownerDetails" => "Audrey & Julien GALLINA <loft16vauban@gmail.com> (réponse eue le 18 décembre, répondu le 26 décembre en lui donnant comme date de départ du logement \"fin juillet 2016\")",
+			"surfaceArea" => "70m²",
+			"descr" => "Appartement contemporain climatisé dans un vieil immeuble d'Antibes, situé \"16 rue Vauban\".<br/>
+			Les deux chambres ont un lit double.<br/>
+			Il y a un salon avec 2 canapés et un bureau.<br/>
+			L'appart' est situé à 1mn à pied de la gare routière, à 3mn de la gare SNCF et moyens de transport accessibles pour aller à Sophia, Nice et Cannes.<br/>
+			La caution de 500€ est encaissable et l'allocation logement peut être fournie sur demande.",
+			"billPerMonth" => "550€ (650€ charges comprises)",
+			"startDate" => "1er janvier 2016",
+			"endDate" => "Mai 2016",
+			"numberOfRooms" => 3,
+			"furniture" => "TV par câble, linge pour les chambres (couette, draps, coussins, protection matelas), cuisine équipée,
+			lave-vaisselle, four, micro-ondes, lave-linge, aspirateur, fer à repasser",
+			"numberOfParkings" => "\"Parking privé\"",
+			"comments" => "<b>Mike</b> - \"Franchement, il a l'air top ! Espérons qu'il soit encore dispo ^^\"<br/>
+			<b>Clément</b> - \"Cher ^^ La taxe d'habitation doit normalement être payée au pire des cas.<br/>
+			Sinon, très bien :-)\""
+		), array(
+			"link" => "http://www.leboncoin.fr/locations/900429640.htm?ca=21_s",
+			"title" => "3P Bas de villa avec jardin centre Antibes (FIN JUIN)",
+			"contact" => "contacté par Clément (réponse obtenue)",
+			"ownerDetails" => "Elisa BOCCALINI <elisetta81@hotmail.com> (06.15.38.30.58)",
+			"surfaceArea" => "65 ou 68m²",
+			"descr" => "Appartement au RDC d'une villa avec un grand jardin privatif en plein centre-ville
+			d'Antibes.<br/>
+			Situé à proximité des plages d'Antibes et de Juan les Pins.",
+			"billPerMonth" => "1090€",
+			"startDate" => "Janvier 2016",
+			"endDate" => "Fin juin 2016 (pas de disponibilité pour l'été)",
+			"numberOfRooms" => 3,
+			"furniture" => "Pas vraiment renseigné (penderie, douche, WC)",
+			"numberOfParkings" => "2 places pour des voitures (cf email)",
+			"comments" => "<b>Mike</b> - \"Pas vraiment d'informations en ce qui concerne les transports à proximité.<br/>
+			Manque de photos, notamment pour les chambres et l'intérieur.<br/>
+			Pas de détails explicites sur les charges (WiFi ?)\"<br/>
+			\"Suite à ton email, elle a répondu qu'elle était en vacs jusqu'au 4 janvier, date à partir de laquelle elle pourra nous envoyer des photos.\""
+		)/*, array(
 			"link" => "http://www.leboncoin.fr/colocations/899633412.htm?ca=21_s",
 			"title" => "Bel appt JUAN LESPINS 51M2(2étudiants)500E P/PERS",
 			"contact" => "Clément (mail envoyé le 06/01)",
@@ -297,38 +313,6 @@ table td:nth-child(2) {
 			"comments" => "<b>Clement</b> - \"Met fin juin, je vais voir si on peut prolonger un peu\"<br/>
 				<b>Mike</b> - \"Le prix est pas mal, mais faut vraiment avoir des infos sur le meublement de l'appart' : machine à laver, cuisine équipée, TV ?<br/>
 				Histoire de donner une réponse le plus rapidement possible à Marco, je pense qu'il faut directement envisager une visite de l'appartement par Skype.\""
-		), array(
->>>>>>> e969b93eba9e1e1426ad1fb772207d0ad015b4a8
-			"link" => "http://www.leboncoin.fr/locations/897062992.htm?ca=21_s",
-			"title" => "F3 meublé 70 m² à 5 mn des plages et du centre",
-			"contact" => "contacté par Mike",
-			"surfaceArea" => "70m²",
-			"descr" => "Appartement situé au 4è étage (avec ascenseur) et noté \"3 étoiles\".<br/>
-			L'appartement est comoposé de 2 chambres, un balcon donnant sur l'ouest, un grand salon, une
-			buanderie, une salle de bain et un WC indépendant.<br/>
-			Il est situé à 5mn à pied de la vieille ville et des plages.",
-			"billPerMonth" => "1200€",
-			"startDate" => "Non renseignée",
-			"endDate" => "Non renseignée",
-			"numberOfRooms" => 3,
-			"furniture" => "\"Cuisine entièrement équipée",
-			"numberOfParkings" => "\"Parking privé\"",
-			"comments" => "Pas d'info sur le WiFi, ni sur les transports.<br/>
-			Niveau meublement de l'appart', des infos supplémentaires seraient fort bienvenues ^^"
-		)/*, array( // loué
-			"link" => "http://www.leboncoin.fr/colocations/899633412.htm?ca=21_s",
-			"title" => "Bel appt JUAN LESPINS 51M2(2étudiants)500E P/PERS",
-			"contact" => "Clément mail le 06/01",
-			"ownerDetails" => "06.19.30.67.12",
-			"surfaceArea" => "51m²",
-			"descr" => "",							
-			"billPerMonth" => "500",
-			"startDate" => "",
-			"endDate" => "fin juin",
-			"numberOfRooms" => 3,
-			"furniture" => "",
-			"numberOfParkings" => "",
-			"comments" => "<b>Clement</b> - \"Met fin juin, je vais voir si on peut prolonger un peu\""
 		), array( // déjà loué, nouvelle apprise le 06/01/2016 après appel
 			"link" => "http://www.appartager.com/colocation-cannes/tres-beau-3-pieces-plein-centre-de-juan/h151207113158560",
 			"title" => "Très beau 3 pièces plein centre de Juan - Juan-les-Pins",
